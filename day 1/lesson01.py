@@ -1,0 +1,8 @@
+print("Tazo Andronikashvili")
+print("nikoloz chirikashvili")
+print("nikoloz bakuradze")
+print("luke lapiashvili")
+print("alexandre antia")
+print("alex")
+print("lukino")
+print("erekle gabaidze")
