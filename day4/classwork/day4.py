@@ -1,11 +1,17 @@
-num=10
-num=5
+# იმისთვის ვიყენებთ რომ, გაგვიალდვილდეს წერა და იგივე მეორე კითხვაც
 
-print(10+5)
+num=11
+print(num+5)
 
-num1=age=10
-num2=5
-num3=(10/5)
+age=11
+number=5
+klh=age/number
+
+name="ilia"
+name="giorgi"
+name="nika"
+name="andria"
+
 
 
 
