@@ -26,3 +26,9 @@ name="ilia"
 num=20
 
 print(type("ilia"*20))
+
+
+
+# string არის ტექსტი მოკცეული ბრჭალებში
+# integer არის მთეელი რიცხვი
+# float არის წილადი
