@@ -1,0 +1,20 @@
+/* class - არის იგივე როგორც div ატრიბუტი ოღონდ # ნიშნის მაგივრად ვწერთ . ანუ წერტილს . */
+/* ეს არის 1 დავალება. */
+
+h3 {
+   color: blue;
+   background-color: aliceblue;
+}
+
+img {
+    color: red;
+   border: double;
+}
+
+.Maine {
+    color: blue;
+}
+
+.cat {
+    color: blueviolet;
+}
