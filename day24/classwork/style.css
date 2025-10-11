@@ -1,0 +1,31 @@
+ /* text-decoration: underline;
+
+text-decoration: overline;
+
+text-decoration: line-through;
+
+text-decoration: underline overline;
+
+text-decoration: underline line-through;
+
+text-decoration: overline line-through;
+
+text-decoration: underline overline line-through;
+
+text-decoration-color red; -->
+
+
+<!-- ეს არის რაც დამამახსოვრდა 2 დავალება  */
+
+b {
+    color: rgb(0,0,255);
+    background-color: aliceblue;
+}
+
+h1 {
+    color: brown;
+    background-color: aliceblue;
+    text-align: center;
+    text-decoration: underline;
+}
+

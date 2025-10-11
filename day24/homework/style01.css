@@ -1,0 +1,15 @@
+    .color-box {
+      width: 200px;
+      height: 100px;
+      margin: 20px;
+      padding: 10px;
+      color: white;
+      font-weight: bold;
+      text-align: center;
+      line-height: 100px;
+    }
+    .box1 { background-color: rgb(255, 99, 71); }    
+    .box2 { background-color: rgb(60, 179, 113); }   
+    .box3 { background-color: rgb(70, 130, 180); }
+    
+    /* ეს არის 4 დავალება */
