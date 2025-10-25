@@ -1,0 +1,18 @@
+  button {
+    background-color: white;
+    color: darkblue;
+    border: 2px solid darkblue;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: lightyellow;
+    color: black;                  
+  }
+
+  button:active {
+    border: none;    
+  }
+  /* es aris 2 davaleba */

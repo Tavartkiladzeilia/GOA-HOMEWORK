@@ -1,0 +1,14 @@
+
+    .hover-box {
+      width: 500px;
+      height: 500px;
+      background-color: #f0f0f0;
+      color: black;
+      padding: 20px;
+      transition: background-color 5s, color 5s;
+    }
+
+    .hover-box:hover {
+      background-color: green;
+      color: white;
+    }

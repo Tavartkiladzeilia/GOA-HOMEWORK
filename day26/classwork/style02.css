@@ -1,0 +1,14 @@
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      background-color: lightgray;
+      border: none;
+      transition: all 0.3s;
+    }
+
+    button:active {
+      background-color: darkblue;
+      border: 2px solid red;
+      color: white;
+    }

@@ -1,0 +1,12 @@
+  a:link {
+    color: darkblue;  
+    text-decoration: underline; 
+  }
+
+
+  a:visited {
+    color: gray; 
+    font-weight: bold;
+  }
+
+  /* es aris 1 davaleba */
