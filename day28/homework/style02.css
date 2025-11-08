@@ -1,0 +1,61 @@
+body {
+  background-color: #2b4f0a; /* მუქი მწვანე ფონი */
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 30px;
+  font-size: 40px;
+}
+
+table {
+  margin: 40px auto;
+  border-collapse: collapse;
+  width: 80%;
+  font-size: 18px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+th, td {
+  border: 1px solid #555;
+  padding: 12px 20px;
+  text-align: center;
+}
+
+th {
+  background-color: #9ad1d4;
+  color: #000;
+}
+
+tr:nth-child(odd) td {
+  background-color: #b8ff5a;
+}
+
+tr:nth-child(even) td {
+  background-color: #f4b942;
+}
+
+td:nth-child(4) {
+  background-color: #d45a2b;
+  color: white;
+}
+
+td:nth-child(5) {
+  background-color: #9e1b1b;
+  color: white;
+}
+
+td:nth-child(2) {
+  font-weight: bold;
+  color: #000;
+}
+
+/* Hover ეფექტი */
+tr:hover td {
+  background-color: #ffff99;
+  transition: 0.3s;
+}
+
+/* es aris 3 davaleba */

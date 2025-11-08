@@ -1,0 +1,16 @@
+  ul {
+    width: 200px;
+    margin: auto;
+    font-family: sans-serif;
+  }
+
+  li {
+    padding: 8px;
+    transition: all 0.3s;
+  }
+
+  li:hover {
+    color: blue;
+    text-decoration: underline;
+  }
+  /* es aris 4 davaleba */
